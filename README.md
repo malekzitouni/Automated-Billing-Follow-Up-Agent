@@ -6,7 +6,9 @@
 **Platform:** n8n Workflow Automation  
 **Primary Goal:** Build an intelligent AI agent that automatically identifies overdue invoices in QuickBooks Online and sends personalized, appropriately-toned email reminders to customers via Discord approval and email delivery.
 
----
+
+<img width="1585" height="525" alt="Screenshot 2025-11-19 221922" src="https://github.com/user-attachments/assets/06533683-b9ff-4e63-8b01-5c9f4a4d7947" />
+
 
 ## 🏗️ Technical Stack
 
